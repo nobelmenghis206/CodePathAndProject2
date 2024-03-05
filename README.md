@@ -7,7 +7,8 @@ Time spent: **1** hours spent in total
 ## Summary
 
 **CodepPathAndProject2** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes! Some of the widgets included random color clicker, Favorite number, simple addition problem and more
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+
+If I had to describe this project in three (3) emojis, they would be: **🧑🏾‍💻😆❌**
 
 ## Application Features
 
