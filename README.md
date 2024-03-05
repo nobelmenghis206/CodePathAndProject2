@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://www.loom.com/share/5ba45a593c8d4a0ab307b648cbf7089b' title='Video Demo' width='' alt='Video Demo' />
+[Link to Video](https://www.loom.com/share/5ba45a593c8d4a0ab307b648cbf7089b' title='Video Demo' width='' alt='Video Demo)
 
 GIF created with **your chosen GIF tool**
 
