@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-[Link to Video](https://www.loom.com/share/5ba45a593c8d4a0ab307b648cbf7089b' title='Video Demo' width='' alt='Video Demo)
+[Link to Video](https://www.loom.com/share/5ba45a593c8d4a0ab307b648cbf7089b)
 
 GIF created with **your chosen GIF tool**
 
@@ -46,6 +46,8 @@ GIF created with **your chosen GIF tool**
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+Learned alot abou thot to use the deugger tool within Andriod Studio and also how to read error messages 
+through the logged terminal.
 
 ## License
 
